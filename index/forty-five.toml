@@ -2,7 +2,7 @@ name = "Forty-Five"
 
 home = "https://github.com/IveBenGamin/Archipelago---APWorld-For-Forty-Five/releases"
 
-default_url = "https://github.com/IveBenGamin/Archipelago---APWorld-For-Forty-Five/releases/download/v{{version}}/froty-five.apworld"
+default_url = "https://github.com/IveBenGamin/Archipelago---APWorld-For-Forty-Five/releases/download/v{{version}}/forty-five.apworld"
 
 [versions]
 "1.0.2" = {}
